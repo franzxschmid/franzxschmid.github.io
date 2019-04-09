@@ -161,19 +161,19 @@ a.social {
   transition: all .25s;
 }
 a.twitter {
-  background-image: url(img/twitter.png);
+  background-image: url(../img/twitter.png);
 }
 a.linkedin {
-  background-image: url(img/linkedin.png);
+  background-image: url(../img/linkedin.png);
 }
 a.github {
-  background-image: url(img/github.png);
+  background-image: url(../img/github.png);
 }
 a.kaggle {
-  background-image: url(img/kaggle.png);
+  background-image: url(../img/kaggle.png);
 }
 a.stackoverflow {
-  background-image: url(img/stackoverflow.png);
+  background-image: url(../img/stackoverflow.png);
 }
 
 a.social:hover {
